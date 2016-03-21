@@ -74,7 +74,7 @@ defmodule Rumbl.VideoControllerTest do
   test "prevent users from seeing videos they didn't create", %{conn: conn, user: user} do
     video = insert_video(user, %{ url: "url", title: "title", description: "desc"})
     non_user = insert_user(%{username: "sneakster_pants"})
-    conn = assign(conn(), :current_user, non_user)
+    conn = assign(conn, :current_user, non_user)
     assert_error_sent :not_found, fn ->
       get conn, video_path(conn, :show, video.id)
     end

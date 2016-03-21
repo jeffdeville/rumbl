@@ -43,7 +43,6 @@ defmodule Rumbl.AuthTest do
     refute get_session(next_conn, :user_id)
   end
 
-  @tag :focus
   test "call with user in session puts user in current_user", %{conn: conn} do
     user = insert_user()
     conn =
@@ -58,10 +57,18 @@ defmodule Rumbl.AuthTest do
     assert conn.assigns.current_user == nil
   end
 
-  @tag :focus
   test "login w/ email and pass", %{conn: conn} do
     user = insert_user(username: "me", password: "password")
     {:ok, conn} = Auth.login_by_username_and_pass(conn, "me", "password", repo: Repo)
     assert conn.assigns.current_user.id == user.id
+  end
+
+  test "login w/ a not found user", %{conn: conn} do
+    assert {:error, :not_found, _} = Auth.login_by_username_and_pass(conn, "missing", "missing", repo: Repo)
+  end
+
+  test "login w/ an invalid password", %{conn: conn} do
+    insert_user(username: "me", password: "password")
+    assert {:error, :unauthorized, _} = Auth.login_by_username_and_pass(conn, "me", "missing", repo: Repo)
   end
 end
