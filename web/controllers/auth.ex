@@ -12,9 +12,9 @@ defmodule Rumbl.Auth do
   def call(conn, repo) do
     user_id = Conn.get_session(conn, :user_id)
     cond do
-      user = conn.assigns[:current_user] -> conn
+      user = conn.assigns[:current_user] -> put_current_user(conn, user)
       user = user_id && repo.get(User, user_id) ->
-        Conn.assign(conn, :current_user, user)
+        put_current_user(conn, user)
       true ->
         Conn.assign(conn, :current_user, nil)
     end
@@ -22,10 +22,18 @@ defmodule Rumbl.Auth do
 
   def login(conn, user) do
     conn
-    |> Conn.assign(:current_user, user)
+    |> put_current_user(user)
     |> Conn.put_session(:user_id, user.id)
     |> Conn.configure_session(renew: true)
   end
+
+  defp put_current_user(conn, user) do
+    token = Phoenix.Token.sign(conn, "user socket", user.id)
+    conn
+    |> Conn.assign(:current_user, user)
+    |> Conn.assign(:user_token, token)
+  end
+
 
   def logout(conn) do
     Conn.configure_session(conn, drop: true)

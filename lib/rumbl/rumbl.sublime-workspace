@@ -1,0 +1,2673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"assert_vali",
+				"assert_valid_message"
+			],
+			[
+				"In",
+				"InvalidIntent	(intents.rb)"
+			],
+			[
+				"required",
+				"required_keys"
+			],
+			[
+				"requi",
+				"required_keys"
+			],
+			[
+				"missing",
+				"missing_keys"
+			],
+			[
+				"def",
+				"defs	defstruct"
+			],
+			[
+				"publi",
+				"publish_fallback_intent"
+			],
+			[
+				"categ",
+				"category_name"
+			],
+			[
+				"valid",
+				"valid_attrs"
+			],
+			[
+				"invli",
+				"invalid_video_attrs"
+			],
+			[
+				"authenti",
+				"authenticate_user"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"passw",
+				"password_hash	(user.ex)"
+			],
+			[
+				"beg",
+				"begine	Begin / Rescue / Ensure Statement [X]"
+			],
+			[
+				"utter",
+				"utterance"
+			],
+			[
+				"env",
+				"environment"
+			],
+			[
+				"utt",
+				"utterances"
+			],
+			[
+				"pred",
+				"predicates"
+			],
+			[
+				"data",
+				"data_types	(shared_intent.rb)"
+			],
+			[
+				"defmod",
+				"defmod	defmodule"
+			],
+			[
+				"key",
+				"key_val"
+			],
+			[
+				"assert",
+				"assert_routing_validity	(shared_intent.rb)"
+			],
+			[
+				"con",
+				"con	Create controller class"
+			],
+			[
+				"produc",
+				"product_show_handler"
+			],
+			[
+				"trigg",
+				"triggered_by"
+			],
+			[
+				"xfi",
+				"xfinity_support_agent_yes	(demo.rb)"
+			],
+			[
+				"xfinity_conn",
+				"xfinity_connect_no	(demo.rb)"
+			],
+			[
+				"xf",
+				"xfinity_connect_yes	(demo.rb)"
+			],
+			[
+				"register",
+				"register_route	(shared_intent_spec.rb)"
+			],
+			[
+				"routa",
+				"routable_response"
+			],
+			[
+				"deli",
+				"delivery_info"
+			],
+			[
+				"existing",
+				"existing_samples"
+			],
+			[
+				"update_attr",
+				"updated_attributes"
+			],
+			[
+				"num_sam",
+				"num_samples"
+			],
+			[
+				"deseri",
+				"deserialized_payload"
+			],
+			[
+				"IE",
+				"IEx.pry	(router.ex)"
+			],
+			[
+				"msg_inten",
+				"msg_intent_set"
+			],
+			[
+				"load_com",
+				"load_company_details	(workflow.rb)"
+			],
+			[
+				"CQ",
+				"create_queue_and_exchage"
+			],
+			[
+				"excah",
+				"exchange_type"
+			],
+			[
+				"gat",
+				"gateway_server"
+			],
+			[
+				"Spa",
+				"Spawn2Ex"
+			],
+			[
+				"multi",
+				"multi_json	(script_spec.rb)"
+			],
+			[
+				"cow",
+				"cowbell_queue"
+			],
+			[
+				"cowb",
+				"cowbell_exchange"
+			],
+			[
+				"_co",
+				"_cowbell_queue"
+			],
+			[
+				"inboun",
+				"inbound_channel"
+			],
+			[
+				"outbound",
+				"outbound_channel"
+			],
+			[
+				"outb",
+				"outbound_channel"
+			],
+			[
+				"Gat",
+				"GatewayServer	(burgundy.rb)"
+			],
+			[
+				"cowbell",
+				"cowbell_client"
+			],
+			[
+				"cowbe",
+				"cowbell_client"
+			],
+			[
+				"gate",
+				"gateway_server	(burgundy.rb)"
+			],
+			[
+				"out",
+				"outbound_channel	(script_spec.rb)"
+			],
+			[
+				"inbound_",
+				"inbound_channel	(script_spec.rb)"
+			],
+			[
+				"conv",
+				"conversation"
+			],
+			[
+				"database",
+				"database_cleaner	(Gemfile)"
+			],
+			[
+				"curren",
+				"currency"
+			],
+			[
+				"curr",
+				"currency"
+			],
+			[
+				"availabilit_",
+				"availability_zone_list"
+			],
+			[
+				"availability_z",
+				"availability_zone_list	(tests.py)"
+			],
+			[
+				"parse",
+				"parsed_pricing"
+			],
+			[
+				"sort",
+				"sorted_data"
+			],
+			[
+				"gith",
+				"github_url"
+			],
+			[
+				"refer",
+				"referenceId"
+			],
+			[
+				"editRef",
+				"editedReference	(openings_store.js.coffee)"
+			],
+			[
+				"edit",
+				"editedIntroduction"
+			],
+			[
+				"loadRefer",
+				"loadReferralReferences(@store	(openings_store.js.coffee)"
+			],
+			[
+				"loadReferr",
+				"loadReferralReferences	(openings_store.js.coffee)"
+			],
+			[
+				"Open",
+				"OpeningActions	(openings_store.js.coffee)"
+			],
+			[
+				"referen",
+				"referenceable_type"
+			],
+			[
+				"transi",
+				"transitionParams"
+			],
+			[
+				"ReferralIntro",
+				"ReferralIntroductionsWrapper"
+			],
+			[
+				"onSaveIntr",
+				"onSaveIntroductionFailed	(openings_store.js.coffee)"
+			],
+			[
+				"onSaveINtr",
+				"onSaveIntroductionCompleted"
+			],
+			[
+				"dele",
+				"deleteIntroduction"
+			],
+			[
+				"shell",
+				"shell_script"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"user_can_crea",
+				"user_can_create_introductions	(openings.json)"
+			],
+			[
+				"openin",
+				"openingsApp"
+			],
+			[
+				"FETC",
+				"FETCH_REFERRALS_SUCCESS	(reducers.spec.js)"
+			],
+			[
+				"fetchOp",
+				"fetchOpeningSuccess	(actions.js)"
+			],
+			[
+				"FETCH",
+				"FETCH_OPENING_SUCCESS"
+			],
+			[
+				"desc",
+				"desc	describe"
+			],
+			[
+				"ope",
+				"openingId"
+			],
+			[
+				"FETCH_",
+				"FETCH_OPENING	(actions.js)"
+			],
+			[
+				"expec",
+				"expectedAction"
+			],
+			[
+				"log",
+				"log	console"
+			],
+			[
+				"billing",
+				"billing_error"
+			],
+			[
+				"bill",
+				"billing_error"
+			],
+			[
+				"BILLIn",
+				"BILLING_ENABLED"
+			],
+			[
+				"update",
+				"update_workplace"
+			],
+			[
+				"thysa_i",
+				"thysa_identity_project_urls"
+			],
+			[
+				"openstack_in",
+				"openstack_identity_project_urls"
+			],
+			[
+				"create_",
+				"create_project	(test_case.py)"
+			],
+			[
+				"ref",
+				"referralsSort"
+			],
+			[
+				"thunk",
+				"thunkMiddleware"
+			],
+			[
+				"intro",
+				"introduced_by"
+			],
+			[
+				"introduced_",
+				"introduced_to_name"
+			],
+			[
+				"opening",
+				"opening_with_everything	(openings.rb)"
+			],
+			[
+				"bac",
+				"background	(_card-candidacy.scss)"
+			],
+			[
+				"primary_",
+				"primary_recruiter_member	(opening.rb)"
+			],
+			[
+				"fetchRE",
+				"fetchReferralExperiences"
+			],
+			[
+				"fetch",
+				"fetchReferrals"
+			],
+			[
+				"fetc",
+				"fetchReferralExperiences"
+			],
+			[
+				"referr",
+				"referral_id"
+			],
+			[
+				"Act",
+				"ActiveModel::Serializer"
+			],
+			[
+				"hirin",
+				"hiring_team_memberships	(opening.rb)"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"OpeningRef",
+				"OpeningReferralStore"
+			],
+			[
+				"OpeningRefe",
+				"OpeningReferralActions	(opening_referral_actions.js.coffee)"
+			],
+			[
+				"Candida",
+				"CandidacyDetails	(candidacy_card.js.jsx.coffee)"
+			],
+			[
+				"emplo",
+				"employee"
+			],
+			[
+				"Empl",
+				"EMPLOYEE_ROLES	(role_manager.rb)"
+			],
+			[
+				"do",
+				"do	Do Block with Arguments [X]"
+			],
+			[
+				"dash",
+				"dashboard_page"
+			],
+			[
+				"addition",
+				"additional_team_members"
+			],
+			[
+				"execu",
+				"executive_search"
+			],
+			[
+				"tena",
+				"tenant_type"
+			],
+			[
+				"owne",
+				"owned_openings"
+			],
+			[
+				"lead_m",
+				"lead_internal_member	(opening.rb)"
+			],
+			[
+				"bef",
+				"bef	before"
+			],
+			[
+				"full",
+				"full_name_or_email	(user.rb)"
+			],
+			[
+				"lead_int",
+				"lead_internal_member	(opening.rb)"
+			],
+			[
+				"swit_t",
+				"switch_to_main_domain	(rails_helper.rb)"
+			],
+			[
+				"portfolio",
+				"portfolio_company_name	(opening.rb)"
+			],
+			[
+				"attr_",
+				"attr_accessor	(search.rb)"
+			],
+			[
+				"wait_for",
+				"wait_for_ajax	(base_page.rb)"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "error",
+		"selected_items":
+		[
+			[
+				"error",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"PCIP",
+				"Package Control: Install Package"
+			],
+			[
+				"PCLP",
+				"Package Control: List Packages"
+			],
+			[
+				"elix",
+				"Build With: elixir"
+			],
+			[
+				"Git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"FNR",
+				"File: New File Relative to Current View"
+			],
+			[
+				"MFPR",
+				"Origami: Move File to Pane on the Right"
+			],
+			[
+				"CloseA",
+				"File: Close All"
+			],
+			[
+				"Git commi",
+				"Git: Commit"
+			],
+			[
+				"Git add",
+				"Git: Add All"
+			],
+			[
+				"git dff",
+				"Git: Diff All Files"
+			],
+			[
+				"Git commit",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"DCP",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"CPB",
+				"Origami: Create Pane Below"
+			],
+			[
+				"Git add ",
+				"Git: Add All"
+			],
+			[
+				"Git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"rubo",
+				"RuboCop: Auto correct current file"
+			],
+			[
+				"Git ad",
+				"Git: Add..."
+			],
+			[
+				"FD",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"FR",
+				"File: Rename"
+			],
+			[
+				"MFPA",
+				"Origami: Move File to Pane Above"
+			],
+			[
+				"CPAbo",
+				"Origami: Create Pane Above"
+			],
+			[
+				"Git Diff",
+				"Git: Diff All Files"
+			],
+			[
+				"CFPB",
+				"Origami: Clone File to Pane Below"
+			],
+			[
+				"closeA",
+				"File: Close All"
+			],
+			[
+				"FRn",
+				"File: New File Relative to Current View"
+			],
+			[
+				"latestmi",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"RLM",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"SSjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"CLoseA",
+				"File: Close All"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"GDiff",
+				"Git: Diff All Files"
+			],
+			[
+				"DPB",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"GD",
+				"Git: Delete Branch"
+			],
+			[
+				"GC",
+				"Git: Commit"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"FMo",
+				"File: Move"
+			],
+			[
+				"FCPP",
+				"File: Copy Path From Project"
+			],
+			[
+				"File del",
+				"File: Delete"
+			],
+			[
+				"book",
+				"Bookmarks: Select Next"
+			],
+			[
+				"bookmark",
+				"Bookmarks: Toggle"
+			],
+			[
+				"Git push",
+				"Git: Push"
+			],
+			[
+				"GitP",
+				"Git: Pull"
+			],
+			[
+				"GPush",
+				"Git: Push"
+			],
+			[
+				"Git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"Git dff",
+				"Git: Diff Staged Files"
+			],
+			[
+				"SSbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Filemo",
+				"File: Move"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"GA",
+				"Git: Add All"
+			],
+			[
+				"Git com",
+				"Git: Commit"
+			],
+			[
+				"Git co",
+				"Git: Commit"
+			],
+			[
+				"PCRP",
+				"Package Control: Remove Package"
+			],
+			[
+				"git di",
+				"git: diff cached"
+			],
+			[
+				"git comm",
+				"git: commit"
+			],
+			[
+				"Git stag",
+				"git: quick stage"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"pull req",
+				"github: create pull request"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"Git stat",
+				"git: status"
+			],
+			[
+				"git pull ",
+				"github: review pull request"
+			],
+			[
+				"git pus",
+				"git: push"
+			],
+			[
+				"GDC",
+				"git: diff cached"
+			],
+			[
+				"git:",
+				"git: graph all branches"
+			],
+			[
+				"Git df",
+				"Git: Diff All Files"
+			],
+			[
+				":wq",
+				"Pretty JSON: JSON query with ./jq"
+			],
+			[
+				"Cl",
+				"File: Close All"
+			],
+			[
+				"File dele",
+				"File: Delete"
+			],
+			[
+				"MFPB",
+				"Origami: Move File to Pane Below"
+			],
+			[
+				"DPRigh",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"GACF",
+				"Git: Add Current File"
+			],
+			[
+				"blame",
+				"git: blame current file"
+			],
+			[
+				"SSruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Fil re",
+				"File: Rename"
+			],
+			[
+				"git blame",
+				"git: blame current file"
+			],
+			[
+				"Git Comm",
+				"Git: Commit"
+			],
+			[
+				"Close A",
+				"File: Close All"
+			],
+			[
+				"Git OCm",
+				"Git: Commit"
+			],
+			[
+				"ClsoeA",
+				"File: Close All"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"BR",
+				"BeautifyRuby"
+			],
+			[
+				"SSRub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"GDA",
+				"Git: Diff All Files"
+			],
+			[
+				"auto r",
+				"RuboCop: Auto correct current file"
+			],
+			[
+				"be",
+				"BeautifyRuby"
+			],
+			[
+				"Git sta",
+				"git: status"
+			],
+			[
+				"Git statu",
+				"Git: Status"
+			],
+			[
+				"Git di",
+				"git: diff"
+			],
+			[
+				"Git res",
+				"git: reset"
+			],
+			[
+				"CloA",
+				"File: Close All"
+			],
+			[
+				"Git log C",
+				"Git: Log Current File"
+			],
+			[
+				"Prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"SSJson",
+				"Set Syntax: JSON"
+			],
+			[
+				"FNC",
+				"File: New File Relative to Current View"
+			],
+			[
+				"zoom",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"GAdd",
+				"Git: Add..."
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"file ren",
+				"File: Rename"
+			],
+			[
+				"Git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"Git a",
+				"Git: Add All"
+			],
+			[
+				"TZoom",
+				"Origami: Zoom/Unzoom Current Pane (Toggle Zoom)"
+			],
+			[
+				"SSJon",
+				"Set Syntax: JSON"
+			],
+			[
+				"elixi",
+				"Build With: elixir"
+			],
+			[
+				"TZ",
+				"PackageSync: Backup/Restore - Backup Packages To Zip (Recommended)"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"FM",
+				"File: Move"
+			],
+			[
+				"SSraml",
+				"Set Syntax: RAML"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"MFPL",
+				"Origami: Move File to Pane on the Left"
+			],
+			[
+				"GitDif",
+				"git: diff"
+			],
+			[
+				"gst",
+				"Git: Show Tags"
+			],
+			[
+				"File Mov",
+				"File: Move"
+			],
+			[
+				"FMove",
+				"File: Move"
+			],
+			[
+				"form",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Col",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"SSru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"FileDel",
+				"File: Delete"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 727.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeff/projects/elixir/rumbl/web/models/annotation.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/phoenix/lib/phoenix/token.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/controllers/auth.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/static/js/player.js",
+		"/Users/jeff/projects/elixir/rumbl/web/views/user_view.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/channels/video_channel.ex",
+		"/Users/jeff/projects/elixir/rumbl/lib/rumbl/endpoint.ex",
+		"/Users/jeff/projects/elixir/rumbl/mix.exs",
+		"/Users/jeff/projects/elixir/rumbl/web/channels/user_socket.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/static/js/app.js",
+		"/Users/jeff/projects/elixir/rumbl/web/static/js/socket.js",
+		"/Users/jeff/projects/elixir/rumbl/web/static/js/video.js",
+		"/Users/jeff/projects/elixir/rumbl/web/models/user.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/models/video.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/layout/app.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/deps/phoenix/lib/phoenix/socket.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/ecto/lib/ecto.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/phoenix/lib/phoenix/param.ex",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/lib/shared_intent/intents.rb",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/lib/shared_intent.rb",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/lib/shared_intent/queue.rb",
+		"/Users/jeff/projects/pw/comcast/chime/cowbell/Gemfile.lock",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/lib/shared_intent/errors.rb",
+		"/Users/jeff/projects/pw/comcast/chime/integrations/forecastio/lib/server.rb",
+		"/Users/jeff/projects/pw/comcast/chime/integrations/forecastio/lib/forecastio/utilities.rb",
+		"/Users/jeff/projects/pw/comcast/chime/chime_api/sender/lib/sender.rb",
+		"/Users/jeff/projects/pw/comcast/chime/dalton/lib/dalton.rb",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/spec/intents_spec.rb",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/Gemfile",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/shared_intent.gemspec",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/spec/spec_helper.rb",
+		"/Users/jeff/projects/pw/comcast/chime/senator/lib/senator.rb",
+		"/Users/jeff/projects/pw/comcast/chime/chime_api/sender/lib/retryable.rb",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/spec/queue_spec.rb",
+		"/Users/jeff/projects/pw/comcast/chime/shared_intent/spec/shared_intent_spec.rb",
+		"/Users/jeff/projects/pw/comcast/chime/burgundy/lib/burgundy.rb",
+		"/Users/jeff/projects/pw/comcast/chime/utterance/lib/model.ex",
+		"/Users/jeff/projects/pw/comcast/chime/spec/acceptance/script_spec.rb",
+		"/Users/jeff/projects/pw/comcast/chime/utterance/lib/utterance.ex",
+		"/Users/jeff/projects/pw/comcast/chime/utterance/spec/utterance_spec.exs",
+		"/Users/jeff/projects/pw/comcast/chime/Makefile",
+		"/Users/jeff/projects/pw/comcast/chime/senator/lib/config/utterances",
+		"/Users/jeff/projects/pw/comcast/chime/language/nlp/lib/processor.rb",
+		"/Users/jeff/projects/pw/comcast/chime/integrations/forecastio/public/utterances",
+		"/Users/jeff/projects/pw/comcast/chime/intents/lib/intents/router.ex",
+		"/Users/jeff/projects/pw/comcast/chime/utterance/lib/amqp_boilerplate.ex",
+		"/Users/jeff/projects/pw/comcast/chime/Procfile.development",
+		"/Users/jeff/projects/pw/comcast/chime/Procfile.test",
+		"/Users/jeff/projects/pw/comcast/chime/intents/deps/amqp/lib/amqp/basic.ex",
+		"/Users/jeff/projects/pw/comcast/chime/integrations/smalltalk/lib/smalltalk.rb",
+		"/Users/jeff/projects/pw/comcast/chime/integrations/smalltalk/public/intents",
+		"/Users/jeff/projects/pw/comcast/chime/integrations/forecastio/bin/server",
+		"/Users/jeff/projects/pw/comcast/chime/bin/print_s3_env",
+		"/Users/jeff/projects/pw/comcast/chime/bin/debug_s3_env",
+		"/Users/jeff/projects/elixir/rumbl/web/views/watch_view.ex",
+		"/Users/jeff/projects/elixir/rumbl/test/controllers/auth_test.exs",
+		"/Users/jeff/projects/elixir/rumbl/test/models/user_test.exs",
+		"/Users/jeff/projects/elixir/rumbl/test/models/user_repo_test.exs",
+		"/Users/jeff/projects/elixir/rumbl/test/models/category_repo_test.exs",
+		"/Users/jeff/projects/elixir/rumbl/web/models/category.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/controllers/video_controller.ex",
+		"/Users/jeff/projects/elixir/rumbl/test/support/model_case.ex",
+		"/Users/jeff/projects/elixir/rumbl/config/test.exs",
+		"/Users/jeff/projects/elixir/rumbl/test/controllers/video_controller_test.exs",
+		"/Users/jeff/projects/elixir/rumbl/test/support/conn_case.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/phoenix/lib/phoenix/test/conn_test.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/phoenix/lib/phoenix/controller.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/plug/lib/plug/conn.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/plug/lib/plug/adapters/test/conn.ex",
+		"/Users/jeff/projects/elixir/rumbl/test/support/test_helpers.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/phoenix/lib/phoenix/router/helpers.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/plug/README.md",
+		"/Users/jeff/projects/elixir/rumbl/test/controllers/page_controller_test.exs",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/page/index.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/web/controllers/user_controller.ex",
+		"/Users/jeff/projects/elixir/rumbl/lib/rumbl/repo.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/ecto/lib/ecto/repo/queryable.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/video/form.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/priv/repo/migrations/20160319175450_create_category.exs",
+		"/Users/jeff/projects/elixir/rumbl/deps/ecto/lib/ecto/schema.ex",
+		"/Users/jeff/projects/elixir/rumbl/priv/repo/seeds.exs",
+		"/Users/jeff/projects/elixir/rumbl/priv/repo/migrations/20160319175707_add_category_id_to_videos.exs",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/video/edit.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/video/new.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/web/router.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/web.ex",
+		"/Users/jeff/projects/elixir/rumbl/priv/repo/migrations/20160319141033_create_video.exs",
+		"/Users/jeff/projects/elixir/rumbl/web/controllers/session_controller.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/session/new.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/web/views/session_view.ex",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/user/new.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/deps/ecto/lib/ecto/changeset.ex",
+		"/Users/jeff/projects/elixir/rumbl/deps/phoenix/lib/mix/tasks/phoenix.routes.ex",
+		"/Users/jeff/projects/elixir/rumbl/lib/rumbl.ex",
+		"/Users/jeff/projects/elixir/rumbl/priv/repo/migrations/20160318211422_create_user.exs",
+		"/Users/jeff/projects/elixir/rumbl/config/dev.exs",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/user/show.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/user/user.html.eex",
+		"/Users/jeff/projects/elixir/rumbl/web/templates/user/index.html.eex",
+		"/Users/jeff/projects/pw/connectder/db/migrate/20160318143407_add_ip_addr_to_unit.rb",
+		"/Users/jeff/projects/pw/connectder/db/schema.rb",
+		"/Users/jeff/projects/pw/connectder/app/controllers/sample_aggregates_controller.rb",
+		"/Users/jeff/projects/pw/connectder/app/models/sample.rb",
+		"/Users/jeff/projects/pw/comcast/chime/integrations/forecastio/public/intents",
+		"/Users/jeff/projects/pw/comcast/chime/intents/test/router_test.exs",
+		"/Users/jeff/projects/pw/comcast/chime/intents/mix.exs",
+		"/Users/jeff/projects/pw/comcast/chime/utterance/bin/utterance",
+		"/Users/jeff/projects/pw/comcast/chime/intents/mix.lock",
+		"/Users/jeff/projects/pw/comcast/chime/senator/spec/spec_helper.rb",
+		"/Users/jeff/projects/pw/comcast/chime/senator/spec/senator_spec.rb",
+		"/Users/jeff/projects/pw/comcast/chime/integrations/demo/lib/demo.rb",
+		"/Users/jeff/projects/pw/comcast/chime/chime_api/sender/spec/sender_spec.rb",
+		"/Users/jeff/projects/pw/comcast/chime/senator/lib/config/intents",
+		"/Users/jeff/projects/pw/comcast/chime/intents/lib/intents/utterance.ex",
+		"/Users/jeff/projects/pw/comcast/chime/cowbell/db/schema.rb",
+		"/Users/jeff/projects/pw/comcast/chime/intents/spec/utterance_spec.exs",
+		"/Users/jeff/projects/pw/comcast/chime/intents/lib/intents.ex",
+		"/Users/jeff/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jeff/projects/pw/comcast/chime/intents/lib/parallel.ex",
+		"/Users/jeff/projects/pw/comcast/chime/intents/spec/spec_helper.exs",
+		"/Users/jeff/projects/pw/comcast/chime/utterance/mix.exs",
+		"/Users/jeff/projects/pw/comcast/chime/spec/spec_helper.rb",
+		"/Users/jeff/projects/pw/comcast/chime/intents/bin/intents_router",
+		"/Users/jeff/projects/pw/comcast/chime/parallel.ex",
+		"/Users/jeff/projects/pw/comcast/chime/.env.test.jeffd",
+		"/Users/jeff/projects/pw/comcast/chime/.env.test.ip-172-31-25-222",
+		"/Users/jeff/projects/pw/comcast/chime/bin/put_s3_env",
+		"/Users/jeff/projects/pw/comcast/chime/bin/pull_s3_env"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"*.ex",
+			"*.rb",
+			"*.ex",
+			"*.rb",
+			"*.ex",
+			"",
+			"utterance/deps/",
+			"utterance/deps/amqp/lib/amqp/",
+			"*",
+			"*.rb",
+			"Gemfile",
+			"*.rb",
+			"*Gemfile",
+			"*.rb",
+			"lib/*.rb",
+			"*.rb",
+			"*",
+			"*.rb",
+			"*Gemfile",
+			"*.rb",
+			"*/Gemfile",
+			"*Gemfile",
+			"Gemfile",
+			"*.rb",
+			"*",
+			"*.rb",
+			"",
+			".env*",
+			"",
+			"thysa/*.py",
+			"thysa/",
+			"thysa",
+			"",
+			"/.venv/src/horizon-origin-domain-scoped-tokens/horizon/static/",
+			"/.venv/src/horizon-origin-domain-scoped-tokens/openstack_dashboard/static/",
+			"*.py",
+			".py",
+			"*_policy*.json",
+			"_policy*.json",
+			"*.json",
+			"node_modules/react-router",
+			"/node_modules/react-router",
+			"/node_modules/react-router/",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"app/",
+			"app.",
+			"",
+			"app/",
+			"app/assets/javascripts/",
+			"app/assets/javascripts/models/",
+			"*.coffee",
+			"*.css",
+			"*.scss",
+			".scss",
+			"",
+			"*.scss*",
+			"*.css*",
+			"*.js",
+			"app/assets/javascripts/components/openings_side_panel/*",
+			"app/assets/javascripts/components/*",
+			"*",
+			"*.js",
+			"*.coffee",
+			"*.rb",
+			"*",
+			"*.coffee",
+			"*.scss",
+			"",
+			"thysa/*.py",
+			"thysa/",
+			"",
+			"app/assets",
+			"",
+			"app/assets",
+			"*",
+			"*.jsx",
+			"*.slim",
+			"*",
+			"spec/*",
+			"",
+			"thysa/",
+			".venv/src/horizon/openstack_dashboard/dashboards/",
+			"/.venv/src/horizon/openstack_dashboard/dashboards/",
+			"",
+			"thysa/",
+			"",
+			"thysa/",
+			"thysa/test",
+			"thysa/*.py",
+			"thysa/*",
+			"thysa/test/*",
+			"*",
+			"*.py",
+			"*.js",
+			"",
+			"app/assets/*",
+			"app/*",
+			"app/assets/javascripts*",
+			"app/*",
+			"*",
+			"spec/*.rb",
+			"*.rb",
+			"*.coffee",
+			"*.scss",
+			"*",
+			"*jsx*",
+			"*",
+			"*.rb",
+			"",
+			"app/assets/javascripts/components/openings_side_panel/",
+			"",
+			"app/assets/javascripts",
+			"app/assets/javascripts/components",
+			"*",
+			"app/*",
+			"app/assets/javascripts/*",
+			"app/assets/javascripts/components/_stores/*",
+			"/app/assets/javascripts/components/_stores/*",
+			"/app/assets/javascripts/components/_stores/",
+			"*",
+			"*.scss",
+			"spec/factories/*.rb",
+			"*.rb",
+			"*.js*",
+			"*.js",
+			"*.scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Annot",
+			"put_current_user",
+			"params[\"",
+			"Phoenix.Token",
+			"video",
+			"msgContainer",
+			"Container",
+			"assert_valid_message",
+			"register_route",
+			"assert_valid_message",
+			"_handle_message",
+			"intent",
+			"intent_clone",
+			"assert_valid_hash",
+			"_handle_message",
+			"intent",
+			"valid_intent",
+			"intent",
+			"intent_keys",
+			"StandardError",
+			"InvalidHashContentsError",
+			"InvalidAddRoute",
+			"route_keys",
+			"route",
+			"missing_keys",
+			"missing_fields",
+			"missing_keys",
+			"missing_fields",
+			"missing_keys",
+			", ",
+			"version",
+			"register_utterances",
+			"name",
+			"super",
+			"register_utterances",
+			"exception_klass",
+			"procfile",
+			"--color",
+			"foreman",
+			"Hi Ar",
+			"defaults",
+			"details",
+			"vals",
+			"utterances",
+			"compile",
+			"payload",
+			"deserialized_payload",
+			"exchange",
+			"utterance_queue",
+			"connect_amqp",
+			"add_route",
+			"add_utterances",
+			"add_route",
+			"register_utterances",
+			"Action_Infer",
+			"expand_path",
+			"tries",
+			"Action_InferIntentFallback",
+			"Action_InferIntentBackup",
+			"UnUtterableString",
+			"?",
+			"alpha",
+			"Category",
+			"true",
+			"assert",
+			"reason",
+			"Auth",
+			"user",
+			"video_path",
+			"assigns",
+			"def assigns",
+			"post",
+			"new",
+			"user_videos",
+			"given_pass",
+			"params",
+			"Plug.Conn",
+			"BCrypt",
+			"name",
+			"user",
+			"?",
+			"“",
+			"?",
+			"\"",
+			" ",
+			",",
+			"UsersController",
+			"Jose",
+			"josevalim",
+			"elixir",
+			"\"",
+			"page_title",
+			"index",
+			"text",
+			"units",
+			"weath",
+			"hash",
+			"register_skills",
+			"input",
+			"utterance",
+			"HoroscopeSigne",
+			"intents",
+			"utterance_exchange",
+			"allow",
+			"json_utterances",
+			"register_utterances",
+			"register_skills",
+			"utterances_def",
+			"get_routes",
+			"Router",
+			"Intents.Router",
+			"define_utterances",
+			"register_utterances",
+			"shared_intent",
+			"define_utterances",
+			"expected_utterances",
+			"rules",
+			"Utterance",
+			"author: :comcast",
+			"author:",
+			"string",
+			"\" }",
+			"Date",
+			"GetFirstEventIntent",
+			"exports",
+			"intents",
+			"handle_info",
+			"Intent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"ruby '2.2.4'",
+			"",
+			"\"",
+			": ",
+			"Thread.pass; sleep 1",
+			"chime.Action_",
+			"\"",
+			"  ",
+			"",
+			"write",
+			"system_exchange",
+			"system_queue",
+			"queue",
+			"_.assign",
+			".store?",
+			"referrals",
+			"opening",
+			"192.168.10.5",
+			"ThriveHtmlSanitizer.call(",
+			"ThriveHtmlSanitizer",
+			"Owner: -",
+			"select_from_chosen",
+			"referred-by-label",
+			"Capybara.default_max_wait_time",
+			"\"",
+			"request.BILLING_ENABLED",
+			"billing_enabled",
+			"self.request.BILLING_ENABLED",
+			"role:ops_admin and (project_id:%(project.id)s or tenant_id:%(tenant.id)s or project_id:ADMIN_PROJECT_ID)",
+			"refresh_til_text_present",
+			"",
+			"admin",
+			"printf",
+			"package gobnb",
+			"github.com/jeffdeville/gobnb",
+			"gobnb_test",
+			"github.com/puerkitobio/goquery",
+			"SuperAdminTestCase",
+			"PropertyID",
+			"\"",
+			"'",
+			"",
+			"from thysa.test.integration_tests import config",
+			"",
+			"'",
+			"",
+			"let",
+			"tag_service.read(account_id)",
+			":real_bsil, :vcr_record",
+			"var ",
+			"ruby '2.0.0'",
+			"ruby '2.1.5'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 110.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 150.0
+	},
+	"output.autopep8":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 310.0
+	},
+	"output.find_results":
+	{
+		"height": 110.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 116.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 186.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"endpoint",
+				"lib/rumbl/endpoint.ex"
+			],
+			[
+				"user_sc",
+				"web/channels/user_socket.ex"
+			],
+			[
+				"rumblend",
+				"lib/rumbl/endpoint.ex"
+			],
+			[
+				"mix.e",
+				"mix.exs"
+			],
+			[
+				"rumbleen",
+				"lib/rumbl/endpoint.ex"
+			],
+			[
+				"userview",
+				"web/views/user_view.ex"
+			],
+			[
+				"video",
+				"web/models/video.ex"
+			],
+			[
+				"annotat",
+				"web/models/annotation.ex"
+			],
+			[
+				"user.ex",
+				"web/models/user.ex"
+			],
+			[
+				"auth.e",
+				"web/controllers/auth.ex"
+			],
+			[
+				"layoutapp",
+				"web/templates/layout/app.html.eex"
+			],
+			[
+				"usersocket",
+				"web/channels/user_socket.ex"
+			],
+			[
+				"librumend",
+				"lib/rumbl/endpoint.ex"
+			],
+			[
+				"socket.",
+				"deps/phoenix/lib/phoenix/socket.ex"
+			],
+			[
+				"socket.j",
+				"web/static/js/socket.js"
+			],
+			[
+				"web/static/js/",
+				"web/static/js/player.js"
+			],
+			[
+				"ecto",
+				"deps/ecto/lib/ecto.ex"
+			],
+			[
+				"phoenixparam",
+				"deps/phoenix/lib/phoenix/param.ex"
+			],
+			[
+				"dalton",
+				"dalton/lib/dalton.rb"
+			],
+			[
+				"intents.rb",
+				"shared_intent/lib/shared_intent/intents.rb"
+			],
+			[
+				"shared_in",
+				"shared_intent/lib/shared_intent.rb"
+			],
+			[
+				"queue",
+				"shared_intent/lib/shared_intent/queue.rb"
+			],
+			[
+				"sharedintint",
+				"shared_intent/lib/shared_intent/intents.rb"
+			],
+			[
+				"sender.r",
+				"chime_api/sender/lib/sender.rb"
+			],
+			[
+				"forecasserver",
+				"integrations/forecastio/lib/server.rb"
+			],
+			[
+				"cowbegem",
+				"cowbell/Gemfile.lock"
+			],
+			[
+				"shareingem",
+				"shared_intent/Gemfile"
+			],
+			[
+				"errors",
+				"shared_intent/lib/shared_intent/errors.rb"
+			],
+			[
+				"shareintspechel",
+				"shared_intent/spec/spec_helper.rb"
+			],
+			[
+				"shared",
+				"shared_intent/lib/shared_intent.rb"
+			],
+			[
+				"senator",
+				"senator/lib/senator.rb"
+			],
+			[
+				"sis",
+				"shared_intent/spec/shared_intent_spec.rb"
+			],
+			[
+				"sender",
+				"chime_api/sender/lib/sender.rb"
+			],
+			[
+				"makefil",
+				"Makefile"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"utter",
+				"utterance/spec/utterance_spec.exs"
+			],
+			[
+				"burgundy",
+				"burgundy/lib/burgundy.rb"
+			],
+			[
+				"script_s",
+				"spec/acceptance/script_spec.rb"
+			],
+			[
+				"proce",
+				"language/nlp/lib/processor.rb"
+			],
+			[
+				"config/utter",
+				"senator/lib/config/utterances"
+			],
+			[
+				"senator.rb",
+				"senator/lib/senator.rb"
+			],
+			[
+				"foreutter",
+				"integrations/forecastio/public/utterances"
+			],
+			[
+				"utterance_sp",
+				"utterance/spec/utterance_spec.exs"
+			],
+			[
+				"utter.ex",
+				"utterance/lib/utterance.ex"
+			],
+			[
+				"router",
+				"intents/lib/intents/router.ex"
+			],
+			[
+				"scrip",
+				"spec/acceptance/script_spec.rb"
+			],
+			[
+				"pr",
+				"Procfile.test"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"pro",
+				"Procfile.development"
+			],
+			[
+				"sena",
+				"senator/lib/senator.rb"
+			],
+			[
+				"proc",
+				"Procfile.test"
+			],
+			[
+				"share",
+				"shared_intent/lib/shared_intent.rb"
+			],
+			[
+				"utterspec",
+				"utterance/spec/utterance_spec.exs"
+			],
+			[
+				"dalt",
+				"dalton/lib/dalton.rb"
+			],
+			[
+				"script_",
+				"spec/acceptance/script_spec.rb"
+			],
+			[
+				"fs.rb",
+				"integrations/forecastio/lib/server.rb"
+			],
+			[
+				"forecser",
+				"integrations/forecastio/bin/server"
+			],
+			[
+				"shared_",
+				"shared_intent/lib/shared_intent.rb"
+			],
+			[
+				"foreser",
+				"integrations/forecastio/lib/server.rb"
+			],
+			[
+				"print",
+				"bin/print_s3_env"
+			],
+			[
+				"debug",
+				"bin/debug_s3_env"
+			],
+			[
+				"videoindex",
+				"web/templates/video/index.html.eex"
+			],
+			[
+				"watch_vi",
+				"web/views/watch_view.ex"
+			],
+			[
+				"layouapp",
+				"web/templates/layout/app.html.eex"
+			],
+			[
+				"videcontr",
+				"web/controllers/video_controller.ex"
+			],
+			[
+				"catego",
+				"web/models/category.ex"
+			],
+			[
+				"user",
+				"web/models/user.ex"
+			],
+			[
+				"user.",
+				"web/models/user.ex"
+			],
+			[
+				"model_case",
+				"test/support/model_case.ex"
+			],
+			[
+				"test.",
+				"config/test.exs"
+			],
+			[
+				"config/test",
+				"config/test.exs"
+			],
+			[
+				"phoenixconn_",
+				"deps/phoenix/lib/phoenix/test/conn_test.ex"
+			],
+			[
+				"conncase",
+				"test/support/conn_case.ex"
+			],
+			[
+				"vct",
+				"test/controllers/video_controller_test.exs"
+			],
+			[
+				"auth.ex",
+				"web/controllers/auth.ex"
+			],
+			[
+				"conntest",
+				"deps/phoenix/lib/phoenix/test/conn_test.ex"
+			],
+			[
+				"routerher",
+				"deps/phoenix/lib/phoenix/router/helpers.ex"
+			],
+			[
+				"test_h",
+				"test/support/test_helpers.ex"
+			],
+			[
+				"conn.",
+				"deps/plug/lib/plug/conn.ex"
+			],
+			[
+				"pageinde",
+				"web/templates/page/index.html.eex"
+			],
+			[
+				"test_he",
+				"test/support/test_helpers.ex"
+			],
+			[
+				"privmigrcate",
+				"priv/repo/migrations/20160319175450_create_category.exs"
+			],
+			[
+				"vide",
+				"web/models/video.ex"
+			],
+			[
+				"sch",
+				"deps/ecto/lib/ecto/schema.ex"
+			],
+			[
+				"videoform",
+				"web/templates/video/form.html.eex"
+			],
+			[
+				"repo",
+				"lib/rumbl/repo.ex"
+			],
+			[
+				"video.ex",
+				"web/models/video.ex"
+			],
+			[
+				"usercontr",
+				"web/controllers/user_controller.ex"
+			],
+			[
+				"videedi",
+				"web/templates/video/edit.html.eex"
+			],
+			[
+				"videform",
+				"web/templates/video/form.html.eex"
+			],
+			[
+				"vidnew",
+				"web/templates/video/new.html.eex"
+			],
+			[
+				"category",
+				"web/models/category.ex"
+			],
+			[
+				"seeds",
+				"priv/repo/seeds.exs"
+			],
+			[
+				"add_categ",
+				"priv/repo/migrations/20160319175707_add_category_id_to_videos.exs"
+			],
+			[
+				"migrationcreate",
+				"priv/repo/migrations/20160319175450_create_category.exs"
+			],
+			[
+				"categ",
+				"web/models/category.ex"
+			],
+			[
+				"user.e",
+				"web/models/user.ex"
+			],
+			[
+				"migrations/",
+				"priv/repo/migrations/20160319141033_create_video.exs"
+			],
+			[
+				"vidcontr",
+				"web/controllers/video_controller.ex"
+			],
+			[
+				"web.",
+				"web/web.ex"
+			],
+			[
+				"sessionnew",
+				"web/templates/session/new.html.eex"
+			],
+			[
+				"mix",
+				"mix.exs"
+			],
+			[
+				"routes",
+				"deps/phoenix/lib/mix/tasks/phoenix.routes.ex"
+			],
+			[
+				"user_contr",
+				"web/controllers/user_controller.ex"
+			],
+			[
+				"rumbl",
+				"lib/rumbl.ex"
+			],
+			[
+				"create_user",
+				"priv/repo/migrations/20160318211422_create_user.exs"
+			],
+			[
+				"dev.ex",
+				"config/dev.exs"
+			],
+			[
+				"index.html.ee",
+				"web/templates/user/index.html.eex"
+			],
+			[
+				"web.ex",
+				"web/web.ex"
+			],
+			[
+				"gem",
+				"Gemfile.lock"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"unit",
+				"app/admin/unit.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"sample.rb",
+				"app/models/sample.rb"
+			],
+			[
+				"sample_ag",
+				"app/controllers/sample_aggregates_controller.rb"
+			],
+			[
+				"eta",
+				"lib/rack/etag.rb"
+			],
+			[
+				"gemfil.",
+				"Gemfile.lock"
+			],
+			[
+				"appli",
+				"cowbell/config/application.rb"
+			],
+			[
+				"utterance",
+				"utterance/lib/utterance.ex"
+			],
+			[
+				"utt",
+				"senator/lib/config/utterances"
+			],
+			[
+				"forecastserver",
+				"integrations/forecastio/lib/server.rb"
+			],
+			[
+				"forecserv",
+				"integrations/forecastio/bin/server"
+			],
+			[
+				"script",
+				"spec/acceptance/script_spec.rb"
+			],
+			[
+				"senatorutter",
+				"senator/lib/config/utterances"
+			],
+			[
+				"utteran",
+				"utterance/bin/utterance"
+			],
+			[
+				"mix.l",
+				"intents/mix.lock"
+			],
+			[
+				"mix.ex",
+				"intents/mix.exs"
+			],
+			[
+				"routertest",
+				"intents/test/router_test.exs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 168.0,
+		"last_filter": "send_resp",
+		"selected_items":
+		[
+			[
+				"send_resp",
+				"send_resp"
+			],
+			[
+				"fetch_sess",
+				"fetch_session"
+			],
+			[
+				"assert",
+				"assert"
+			],
+			[
+				"put",
+				"put"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"redirect",
+				"redirected_to"
+			],
+			[
+				"assigns",
+				"assigns"
+			],
+			[
+				"PluConn",
+				"## The Plug.Conn"
+			],
+			[
+				"conn",
+				"conn"
+			],
+			[
+				"all",
+				"all"
+			],
+			[
+				"scrub_par",
+				"scrub_params"
+			],
+			[
+				"halt",
+				"halt"
+			],
+			[
+				"assign",
+				"assign"
+			],
+			[
+				"cast",
+				"cast"
+			],
+			[
+				"default_titl",
+				"default_title"
+			],
+			[
+				"register_utt",
+				"register_utterances"
+			],
+			[
+				"BFM",
+				"build_forecast_message"
+			],
+			[
+				"to_intent",
+				"to_intent"
+			],
+			[
+				"publis",
+				"publish"
+			],
+			[
+				"register_route",
+				"register_route"
+			],
+			[
+				"array",
+				"arrayify"
+			],
+			[
+				"Client",
+				"Client"
+			],
+			[
+				"bul",
+				"bulk"
+			],
+			[
+				"find_u",
+				"find_unit"
+			],
+			[
+				"Sampl",
+				"Sample"
+			],
+			[
+				"token_c",
+				"token_correct?"
+			],
+			[
+				"authenticate",
+				"authenticate_entity_from_token!"
+			],
+			[
+				"DSJ",
+				"DeleteSamplesJob"
+			],
+			[
+				"DeleteSamplesJob",
+				"DeleteSamplesJob"
+			],
+			[
+				"activate_u",
+				"activate_unit!"
+			],
+			[
+				"UnAContro",
+				"Activation::UnitActivationsController"
+			],
+			[
+				"UnitControll",
+				"Activation::UnitsController"
+			],
+			[
+				"IndexMana",
+				"IndexManager"
+			],
+			[
+				"aggreg",
+				"aggregate_for"
+			],
+			[
+				"consume",
+				"consume"
+			],
+			[
+				"start_link",
+				"start_link"
+			],
+			[
+				"load_c",
+				"load_companies"
+			],
+			[
+				"subscr",
+				"subscribe"
+			],
+			[
+				"kill",
+				"kill"
+			],
+			[
+				"_flavors_",
+				"_flavors_are_valid"
+			],
+			[
+				"pricing_information_exists",
+				"pricing_information_exists"
+			],
+			[
+				"heade",
+				"headers_for"
+			],
+			[
+				"SIDA",
+				"SetInstanceDetailsAction"
+			],
+			[
+				"get_account",
+				"get_account_id"
+			],
+			[
+				"Request",
+				"Request"
+			],
+			[
+				"get_total",
+				"get_total_price"
+			],
+			[
+				"ContactFilter",
+				"ContactFilter"
+			],
+			[
+				"has_limi",
+				"has_limited_access?"
+			],
+			[
+				"test_manage_in",
+				"test_manage_invitations"
+			],
+			[
+				"UsersPage",
+				"UsersPage"
+			],
+			[
+				"test_user_crea",
+				"test_user_creation"
+			],
+			[
+				"TestImageOp",
+				"TestImageOptionsAdmin"
+			],
+			[
+				"test_managed_workplace_visibility",
+				"test_managed_workplace_visibility"
+			],
+			[
+				"ImagesPage",
+				"ImagesPage"
+			],
+			[
+				"VolumesPage",
+				"VolumesPage"
+			],
+			[
+				"TestLogo",
+				"TestLogout"
+			],
+			[
+				"OverviewPage",
+				"OverviewPage"
+			],
+			[
+				"test_domain_ad",
+				"test_domain_admin_sees_compute_dashboard"
+			],
+			[
+				"test_cannot_edi",
+				"test_cannot_edit_or_delete_application_policies"
+			],
+			[
+				"TestOpsAdminOmnipotence",
+				"TestOpsAdminOmnipotence"
+			],
+			[
+				"log_in_cloud_ad",
+				"log_in_cloud_admin"
+			],
+			[
+				"TestAdminManagedWorkplaceManagement",
+				"TestAdminManagedWorkplaceManagement"
+			],
+			[
+				"is_logge",
+				"is_logged_in"
+			],
+			[
+				"log_in",
+				"log_in"
+			],
+			[
+				"is_logged",
+				"is_logged_in"
+			],
+			[
+				"test_login",
+				"test_login"
+			],
+			[
+				"visit",
+				"visit"
+			],
+			[
+				"landing_page",
+				"landing_page"
+			],
+			[
+				"loginPa",
+				"LoginPage"
+			],
+			[
+				"ReferenceDeco",
+				"ReferenceDecorator"
+			],
+			[
+				"RRSerializer",
+				"ReferralReferenceSerializer"
+			],
+			[
+				"RefereDeco",
+				"ReferenceDecorator"
+			],
+			[
+				"RouteHand",
+				"RouteHandler"
+			],
+			[
+				"pip_inst",
+				"pip_install_gr"
+			],
+			[
+				"git_",
+				"git_clone"
+			],
+			[
+				"isRequi",
+				"isRequire"
+			],
+			[
+				"integer",
+				"integer"
+			],
+			[
+				"string",
+				"string"
+			],
+			[
+				"propTyp",
+				"propTypes"
+			],
+			[
+				"PropTypes",
+				"## PropTypes"
+			],
+			[
+				"install_g",
+				"install_glance"
+			],
+			[
+				"install_keyston",
+				"install_keystone"
+			],
+			[
+				"stack_install_service",
+				"stack_install_service"
+			],
+			[
+				"gitc",
+				"git_clone"
+			],
+			[
+				"is_error",
+				"is_error_message_not_present"
+			],
+			[
+				"TestApiK",
+				"TestApiKeyReset"
+			],
+			[
+				"TestFirstWorkplaceCreation",
+				"TestFirstWorkplaceCreation"
+			],
+			[
+				"getref",
+				"getRef"
+			],
+			[
+				"WorkPage",
+				"WorkplacesPage"
+			],
+			[
+				"NWF",
+				"NoWorkplacesFound"
+			],
+			[
+				"TestBudget",
+				"TestBudgetDisplay"
+			],
+			[
+				"TestBud",
+				"TestBudgetDisplay"
+			],
+			[
+				"Resource",
+				"Resource"
+			],
+			[
+				"Tenant",
+				"Tenant"
+			],
+			[
+				"View",
+				"View"
+			],
+			[
+				"request",
+				"create_request"
+			],
+			[
+				"TBudget",
+				"TestBudgetDisplay"
+			],
+			[
+				"Widget",
+				"Widget"
+			],
+			[
+				"create_workpl",
+				"create_workplace"
+			],
+			[
+				"test_should_be",
+				"test_should_be_able_to_create_and_adminster_first_project"
+			],
+			[
+				"Budge",
+				"TestBudgetDisplay"
+			],
+			[
+				"NoWorkplacesFound",
+				"NoWorkplacesFound"
+			],
+			[
+				"TestBudgetDisplay",
+				"TestBudgetDisplay"
+			],
+			[
+				"add_work",
+				"add_workplace"
+			],
+			[
+				"create_test_c",
+				"create_test_customer"
+			],
+			[
+				"add_workpl",
+				"add_workplace"
+			],
+			[
+				"get_eff",
+				"get_effective_domain_id"
+			],
+			[
+				"BaseRow",
+				"BaseRow"
+			],
+			[
+				"TenantsTable",
+				"TenantsTable"
+			],
+			[
+				"Row",
+				"Row"
+			],
+			[
+				"WorkplPage",
+				"WorkplacesPage"
+			],
+			[
+				"get_ari",
+				"get_aria_id"
+			],
+			[
+				"create_tests",
+				"create_test_customer"
+			],
+			[
+				"createproj",
+				"CreateProject"
+			],
+			[
+				"cloud_",
+				"add_cloud_service"
+			],
+			[
+				"updateDoma",
+				"UpdateDomain"
+			],
+			[
+				"addWork",
+				"AddWorkplace"
+			],
+			[
+				"formatted_date",
+				"formatted_date_and_time"
+			],
+			[
+				"OpeDeco",
+				"OpeningDecorator"
+			],
+			[
+				"OpeDec",
+				"OpeningDecorator"
+			],
+			[
+				"DashPage",
+				"DashboardPage"
+			],
+			[
+				"Dashboard",
+				"DashboardPage"
+			],
+			[
+				"ReferrSer",
+				"ReferralSerializer"
+			],
+			[
+				"rating_with",
+				"rating_with_default"
+			],
+			[
+				"OEP",
+				"OpeningEditPage"
+			],
+			[
+				"PrimarRec",
+				"PrimaryRecruiterMembership"
+			],
+			[
+				"MDY",
+				"month_day_year"
+			],
+			[
+				"formatted_opened_date",
+				"formatted_opened_date"
+			]
+		],
+		"width": 646.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

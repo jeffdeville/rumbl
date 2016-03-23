@@ -1,0 +1,44 @@
+defmodule Rumbl.VideoChannel do
+  use Rumbl.Web, :channel
+  alias Rumbl.Video
+  alias Rumbl.Annotation
+  alias Rumbl.User
+  alias Rumbl.Repo
+
+  def join("videos:" <> video_id_str, params, socket) do
+    last_seen_id = params["last_seen_id"] || 0
+    video_id = String.to_integer(video_id_str)
+    annotations = Repo.all from a in Annotation,
+                             where:     a.video_id == ^video_id,
+                             where:     a.id > ^last_seen_id,
+                             order_by:  [desc: a.at],
+                             limit:     200,
+                             preload:   [:user]
+    resp = %{annotations: Phoenix.View.render_many(annotations, Rumbl.AnnotationView, "annotation.json")}
+    {:ok, resp, assign(socket, :video_id, video_id)}
+  end
+
+  def handle_in("new_annotation", params, socket) do
+    user = Repo.get(User, socket.assigns.user_id)
+    handle_in("new_annotation", params, user, socket)
+  end
+
+  def handle_in("new_annotation", params, user, socket) do
+    changeset =
+      user
+      |> build_assoc(:annotations, video_id: socket.assigns.video_id)
+      |> Rumbl.Annotation.changeset(params)
+    case Repo.insert(changeset) do
+      {:ok, annotation} ->
+        broadcast! socket, "new_annotation", %{
+          id: annotation.id,
+          user: Rumbl.UserView.render("user.json", %{user: user}),
+          body: annotation.body,
+          at: annotation.at,
+        }
+        {:reply, :ok, socket}
+      {:error, changeset} ->
+        {:reply, {:error, %{errors: changeset}}, socket}
+    end
+  end
+end
