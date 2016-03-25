@@ -26,6 +26,7 @@ config :rumbl, Rumbl.Repo,
 # Do not print debug messages in production
 config :logger, level: :info
 
+config :rumbl, :wolfram, app_id: System.get_env("WOLFRAM_APP_ID")
 # ## SSL Support
 #
 # To get SSL working, you will need to add the `https` key
