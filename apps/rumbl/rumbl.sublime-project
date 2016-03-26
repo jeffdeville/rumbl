@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "/Users/jeff/projects/elixir/rumbl"
+    }
+  ],
+  "SublimeLinter": {
+    "linters": {
+      "elixirc": {
+        "mix_project": true,
+        "chdir": "${project}"
+      }
+    }
+  }
+}
