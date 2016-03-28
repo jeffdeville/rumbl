@@ -9,6 +9,7 @@ defmodule InfoSys.Mixfile do
      deps_path: "../../deps",
      lockfile: "../../mix.lock",
      elixir: "~> 1.2",
+     elixirc_paths: elixirc_paths(Mix.env),
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
      deps: deps]
@@ -18,10 +19,12 @@ defmodule InfoSys.Mixfile do
   #
   # Type "mix help compile.app" for more information
   def application do
-    [applications: [:logger],
-     mod: {InfoSys, []}]
+    [mod: {InfoSys, []},
+     applications: [:logger]]
   end
 
+  defp elixirc_paths(:test), do: ["lib", "test/support"]
+  defp elixirc_paths(_),     do: ["lib"]
   # Dependencies can be Hex packages:
   #
   #   {:mydep, "~> 0.3.0"}
