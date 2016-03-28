@@ -8,6 +8,9 @@ defmodule Rumbrella.Mixfile do
      deps: deps]
   end
 
+  def application do
+    [applications: [:rumbl, :info_sys]]
+  end
   # Dependencies can be Hex packages:
   #
   #   {:mydep, "~> 0.3.0"}
@@ -21,6 +24,6 @@ defmodule Rumbrella.Mixfile do
   # Dependencies listed here are available only for this project
   # and cannot be accessed from applications inside the apps folder
   defp deps do
-    []
+    [{:exrm, "~> 0.19.9"}]
   end
 end
