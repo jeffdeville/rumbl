@@ -16,9 +16,9 @@ defmodule Rumbl.SessionController do
         |> put_flash(:info, "Welcome back!")
         |> redirect(to: page_path(conn, :index))
       {:error, :unauthorized, conn} ->
-        conn
-        |> put_flash(:error, "Invalid username/password")
-        |> render("new.html")
+        show_notfound(conn)
+      {:error, :not_found, conn} ->
+        show_notfound(conn)
     end
   end
 
@@ -28,4 +28,9 @@ defmodule Rumbl.SessionController do
     |> redirect(to: page_path(conn, :index))
   end
 
+  defp show_notfound(conn) do
+    conn
+    |> put_flash(:error, "Invalid username/password")
+    |> render("new.html")
+  end
 end
