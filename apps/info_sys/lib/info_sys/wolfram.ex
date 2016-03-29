@@ -1,5 +1,6 @@
 defmodule InfoSys.Wolfram do
   import SweetXml
+  require Logger
   alias InfoSys.Result
 
   def start_link(query, query_ref, owner, limit) do
@@ -9,9 +10,11 @@ defmodule InfoSys.Wolfram do
   def fetch(query_str, query_ref, owner, _limit) do
     query_str
     |> fetch_xml()
+    |> log()
     |> xpath(~x"/queryresult/pod[contains(@title, 'Result') or
                                      contains(@title, 'Definitions')]
                                 /subpod/plaintext/text()")
+    |> log()
     |> send_results(query_ref, owner)
   end
 
@@ -31,6 +34,14 @@ defmodule InfoSys.Wolfram do
     )
     body
   end
+
+  defp log(content) do
+    Logger.info(fn() ->
+      inspect content
+    end)
+    content
+  end
+
 
   def app_id, do: Application.get_env(:info_sys, :wolfram)[:app_id]
 end
