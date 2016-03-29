@@ -42,7 +42,8 @@ defmodule Rumbl.Mixfile do
      {:gettext, "~> 0.9"},
      {:cowboy, "~> 1.0"},
      {:comeonin, "~> 2.1.1"},
-     {:info_sys, in_umbrella: true}
+     {:info_sys, in_umbrella: true},
+     {:junit_formatter, "~>1.0.0", only: :test}
    ]
   end
 

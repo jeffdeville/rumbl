@@ -36,6 +36,9 @@ defmodule InfoSys.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [{:sweet_xml, "~> 0.6.1"}]
+    [
+      {:sweet_xml, "~> 0.6.1"},
+      {:junit_formatter, "~>1.0.0", only: :test}
+    ]
   end
 end

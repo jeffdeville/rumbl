@@ -1,3 +1,4 @@
+ExUnit.configure formatters: [JUnitFormatter, ExUnit.CLIFormatter]
 ExUnit.start
 
 Mix.Task.run "ecto.create", ~w(-r Rumbl.Repo --quiet)
